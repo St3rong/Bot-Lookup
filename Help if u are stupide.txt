@@ -1,0 +1,1 @@
+FOR ON THE BOT OPEN CMD AND WRITE python main.py
